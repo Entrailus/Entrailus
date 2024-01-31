@@ -26,14 +26,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Entrail10/Entrail10/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- Contribution Graph -->
-<a href="https://github.com/Entrail10/Entrail10"><img alt="Entrail10's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Entrail10&bg_color=RRGGBBAA&title_color=5acbe9&color=5acbe9&line=5acbe9&point=DEDEDE&hide_border=true&custom_title=Contribution+Graph" /></a>
-
-
 ### Languages & Tools 🧰
 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,rust,python)]()
+[![My Skills](https://skillicons.dev/icons?i=rust,python,linux,git)]()
 
 ### 
 
